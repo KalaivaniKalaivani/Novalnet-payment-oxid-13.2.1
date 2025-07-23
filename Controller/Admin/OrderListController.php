@@ -13,7 +13,7 @@
  * Script: OrderController.php
  */
 
-namespace Novalnet\Controller\Admin;
+namespace oe\novalnet\Controller\Admin;
 
 /**
  * Class OrderListController.
